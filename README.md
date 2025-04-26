@@ -16,6 +16,7 @@ imdb-duckdb-local/
 │   ├── title.episode.tsv
 │   ├── title.principals.tsv
 │   └── title.ratings.tsv
+├── analysis.ipynb
 ├── setup.ipynb
 └── requirements.txt
 ```
