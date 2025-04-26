@@ -40,3 +40,7 @@ pip install -r requirements.txt
 # Setup notebook
 
 By running all cells in `setup.ipynb`, you will create a DuckDB schema with 7 tables.
+
+# Analysis notebook
+
+After completing the setup, you should proceed to `analysis.ipynb` and explore the dataset.
