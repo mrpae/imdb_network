@@ -1,6 +1,8 @@
-# imdb_network
+# Network Analysis of Movie and Actor Relationships on IMDb
 
-Network analysis project (spring 2025)
+This repository stores all relevant pieces of code and analysis related to the Network Science course project. The authors of the project are all from the Data Science Masters curriculum at the Tartu University: Markus Rene Pae, Desiree Himuškin, and Toomas Kangur.
+
+Our initial analysis work was spread into separate notebooks and the final `analysis_final.ipynb` was obtained by merging some of the best results. If you wish to recreate our analysis, feel free to follow the steps below. In case you have any questions, feel free to contact the repository owner. Good luck!
 
 # Project Structure
 
@@ -16,8 +18,13 @@ imdb-duckdb-local/
 │   ├── title.episode.tsv
 │   ├── title.principals.tsv
 │   └── title.ratings.tsv
-├── analysis.ipynb
+├── analysis_final.ipynb
 ├── setup.ipynb
+├── eric roberts ego graph.PNG
+├── star power top5 graph.PNG
+├── project_poster.png
+├── final_report.pdf
+├── README.md
 └── requirements.txt
 ```
 
@@ -44,4 +51,4 @@ By running all cells in `setup.ipynb`, you will create a DuckDB schema with 7 ta
 
 # Analysis notebook
 
-After completing the setup, you should proceed to `analysis.ipynb` and explore the dataset.
+After completing the setup, you should proceed to `analysis_final.ipynb` and see what we have done.
