@@ -3,3 +3,7 @@ pandas
 jupyter
 jupysql
 matplotlib
+scipy
+networkx
+sklearn
+seaborn
